@@ -7,6 +7,9 @@ I  start the analysis off by using Pandas to change the "tripduration" column fr
 2. Show the number of bike trips for all riders and genders for each hour of each day of the week
 3. Show the number of bike trips for each type of user and gender for each day of the week.
 
+## Tableau Dashboard
+
+[link to dashboard](https://public.tableau.com/app/profile/diron.kelly/viz/Module14_Challenge_16442105099870/NYCCitibikeAnalysis)
 
 ## ANALYSIS
 ### Charts w/ descriptions:
